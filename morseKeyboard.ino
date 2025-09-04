@@ -1,10 +1,10 @@
 #include <Keyboard.h>
 
-const int deletePin = 9;
-const int enterPin = 8;
-const int spacePin = 7;
-const int shiftPin = 6;
-const int morsePin = 5;
+const int deletePin = 2;
+const int enterPin = 3;
+const int spacePin = 4;
+const int shiftPin = 5;
+const int morsePin = 6;
 
 const int NUM_CHARS = 57;
 const int MIN_PRESS_DURATION = 50;

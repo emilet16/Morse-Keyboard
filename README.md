@@ -9,11 +9,16 @@ Build and run this code using Arduino IDE
 
 ## Circuit drawing
 
-TODO: ADD A CIRCUIT DRAWING
+![The circuit drawing](assets/PCB.png)
 
 This is a sample circuit for the keyboard.
-There are five buttons, the morse input one, a space key, an enter key, a delete key and a shift key. TODO: RIGHT ORDER
+There are five buttons from left to right:
+- Morse input
+- Shift key
+- Space key
+- Enter key
+- Delete key
 
-## See it in action:
+## See it in action
 
 TODO: ADD A VIDEO
