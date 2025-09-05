@@ -3,11 +3,11 @@
 Ever felt like writing code with 2 hands was too difficult?
 With this keyboard, you can write Python code using a modified version of morse code.
 
-## Getting started
+## Getting Started
 
 Build and run this code using Arduino IDE
 
-## Circuit drawing
+## Circuit Drawing
 
 ![The circuit drawing](assets/PCB.png)
 
@@ -19,6 +19,8 @@ There are five buttons from left to right:
 - Enter key
 - Delete key
 
-## See it in action
+## Modified Morse Code
 
-TODO: ADD A VIDEO
+Here is a cheat sheet for the Morse code:
+
+![A cheat sheet for the Morse code](assets/Morse.png)
